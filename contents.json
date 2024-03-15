@@ -1,0 +1,261 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "2",
+      "name": "Lovies",
+      "publisher": "Native Fonts",
+      "tray_image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/01.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/1.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/2.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/3.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/4.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/5.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/6.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/7.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/8.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/9.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/10.webp",
+          "emojis": [
+            "👩‍💻❓",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/11.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/12.webp",
+          "emojis": [
+            "🤸",
+            "🐩❓",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/13.webp",
+          "emojis": [
+            "📰",
+            "❓🔎",
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/14.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/15.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "❓💻"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/16.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻❓"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/17.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🧼"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/18.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/19.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/20.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/21.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/22.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/23.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/24.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/25.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/26.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/27.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/28.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/29.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/30.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        }
+      ]
+    }
+  ]
+}
