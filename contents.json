@@ -14,6 +14,7 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "animated_sticker_pack": true,
+      "sticker_pack_file_size": "2MB",
       "stickers": [
         {
           "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/2/1.webp",
