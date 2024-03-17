@@ -13,8 +13,8 @@
             "publisher_website": "",
             "privacy_policy_website": "",
             "license_agreement_website": "",
-            "animated_sticker_pack": true,
-            "sticker_pack_file_size": "2MB",
+            "animated_sticker_pack": false,
+            "sticker_pack_file_size": "1.4MB",
             "stickers": [
               {
                 "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/011.webp",
