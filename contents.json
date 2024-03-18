@@ -3,10 +3,10 @@
     "ios_app_store_link": "",
     "sticker_packs": [
         {
-            "identifier": "1",
+            "identifier": "100",
             "name": "Ramadan Kareem",
             "publisher": "Native Fonts",
-            "tray_image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/01.png",
+            "tray_image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/01.png",
             "image_data_version": "1",
             "avoid_cache": false,
             "publisher_email": "",
@@ -17,7 +17,7 @@
             "sticker_pack_file_size": "1.4MB",
             "stickers": [
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/011.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/011.webp",
                 "emojis": [
                   "🥰",
                   "😘",
@@ -25,7 +25,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/012.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/012.webp",
                 "emojis": [
                   "✊",
                   "💪",
@@ -33,7 +33,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/013.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/013.webp",
                 "emojis": [
                   "❤️",
                   "🥰",
@@ -41,7 +41,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/014.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/014.webp",
                 "emojis": [
                   "🖐",
                   "🙌",
@@ -49,7 +49,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/015.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/015.webp",
                 "emojis": [
                   "📱",
                   "👯❓",
@@ -57,7 +57,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/016.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/016.webp",
                 "emojis": [
                   "📱",
                   "🙋‍♀",
@@ -65,7 +65,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/017.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/017.webp",
                 "emojis": [
                   "❓👍",
                   "👌",
@@ -73,7 +73,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/018.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/018.webp",
                 "emojis": [
                   "👋",
                   "❓",
@@ -81,7 +81,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/019.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/019.webp",
                 "emojis": [
                   "☕",
                   "🍵",
@@ -89,7 +89,7 @@
                 ]
               },
               {
-                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/ramadan/020.webp",
+                "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/100/020.webp",
                 "emojis": [
                   "👩‍💻❓",
                   "👨‍💻",
