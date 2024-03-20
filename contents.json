@@ -3158,6 +3158,197 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "28",
+      "name": "Text",
+      "publisher": "Native Fonts",
+      "tray_image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/01.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/09.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/128/010.webp",
+          "emojis": [
+            "👩‍💻❓",
+            "👨‍💻",
+            "🛏"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/011.webp",
+          "emojis": [
+            "🧘♀",
+            "🧘♂",
+            "🤙"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/012.webp",
+          "emojis": [
+            "🤸",
+            "🐩❓",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/013.webp",
+          "emojis": [
+            "📰",
+            "❓🔎",
+            "🔍"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/014.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/015.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "❓💻"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/016.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻❓"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/017.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🧼"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/018.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/019.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/020.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🩺"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/021.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/022.webp",
+          "emojis": [
+            "🙏",
+            "🦸‍♀️",
+            "🦸"
+          ]
+        }
+      ]
     }
   ]
 }
