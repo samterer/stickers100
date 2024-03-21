@@ -3163,7 +3163,7 @@
       "identifier": "28",
       "name": "Text",
       "publisher": "Native Fonts",
-      "tray_image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/01.png",
+      "tray_image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/1/01.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -3245,7 +3245,7 @@
           ]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/128/010.webp",
+          "image_file": "https://raw.githubusercontent.com/samterer/stickers100/main/28/010.webp",
           "emojis": [
             "👩‍💻❓",
             "👨‍💻",
